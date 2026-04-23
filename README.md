@@ -13,7 +13,7 @@
 
 ---
 
-I build scalable web architectures, integrate hardware with cloud systems, and lead technical teams. Currently co-founding [CaeliFi](https://caeliafi.com) — a platform for solar auditing and diesel generator synchronization — while serving as a Technical Executive at KIIT E-Cell.
+I build scalable web architectures, integrate hardware with cloud systems, and lead technical teams. Currently co-founding [CaeliFi](https://caeliafi.com), a platform for solar auditing and diesel generator synchronization, while serving as a Technical Executive at KIIT E-Cell.
 
 ---
 
