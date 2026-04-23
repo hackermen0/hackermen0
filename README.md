@@ -19,7 +19,7 @@ I build scalable web architectures, integrate hardware with cloud systems, and l
 
 ## 🚀 Experience
 
-### ☀️ CaeliFi | Co-founder & Full Stack Developer*
+### ☀️ CaeliFi | Co-founder & Full Stack Developer
 > Privately held startup focused on energy intelligence.
 
 - Architecting a unified platform for **real-time solar auditing** and diesel generator synchronization.
@@ -29,7 +29,7 @@ I build scalable web architectures, integrate hardware with cloud systems, and l
 
 ---
 
-### 🏛️ KIIT Entrepreneurship Cell | Technical Executive*
+### 🏛️ KIIT Entrepreneurship Cell | Technical Executive
 > Building the digital backbone of one of India's premier student entrepreneurship cells.
 
 | Project | What I did |
