@@ -82,7 +82,7 @@ I build scalable web architectures, integrate hardware with cloud systems, and l
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermen0&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=hackermen0&theme=shadow)
 
 </div>
 
