@@ -40,25 +40,6 @@ I build scalable web architectures, integrate hardware with cloud systems, and l
 
 ---
 
-## 🛠️ Projects
-
-### 📱 Vitume — Social Media Platform
-> [`github.com/hackermen0/vitume`](https://github.com/hackermen0/vitume) · Open Source
-
-- Built a full-stack social networking platform with **SvelteKit**, Vite, and Tailwind CSS + DaisyUI.
-- Leveraged **PocketBase** for auth, real-time database, and media storage.
-- Engineered strict **Zod schemas** for client-side and server-side validation across media-heavy posts.
-- Implemented post likes, multi-format media uploads (images/videos), and a private account follow-request system.
-
----
-
-### 💧 Smart India Hackathon — Groundwater Forecasting | Backend & ML Engineer
-- Developed an **ML model** analyzing historical DWLR station data to predict future groundwater availability.
-- Engineered a backend data pipeline to ingest, clean, and normalize sensor data for model training.
-- Deployed a predictive tool enabling local authorities to forecast drought risk and visualize water usage trends.
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
